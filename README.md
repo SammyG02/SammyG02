@@ -1,60 +1,82 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+<!-- Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Hey,%20I'm%20Samuel%20Gosaye%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="header" />
+</p>
 
-###
+<p align="center">
+  <a href="https://github.com/SammyG02">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=520&lines=Full-stack+web+developer;Building+with+Next.js+%2B+Supabase;Shipping+apps+to+web+and+Android;Based+in+Addis+Ababa%2C+Ethiopia+🇪🇹" alt="Typing SVG" />
+  </a>
+</p>
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/samuel-gosaye-248b5620b">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:samuelgosaye02@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=SammyG02&style=for-the-badge&color=2c5364&label=PROFILE+VIEWS" alt="Profile views" />
+</p>
 
-###
+---
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=SammyG02.SammyG02&"  />
-</div>
+## 🧑‍💻 About me
 
-###
+- 📍 Addis Ababa, Ethiopia
+- 🔭 Working as a **web developer**
+- 🍽️ Currently building **FoodREVO**, an app for logging and reviewing restaurants, with maps, search and photo uploads
+- 🌱 Learning more about **React Server Components**, **TypeScript** and mobile with **Capacitor**
+- 💬 Ask me about **Next.js**, **Supabase**, **Go** or **.NET**
+- ⚡ Fun fact: in my free time I rest, and I'm good at it
 
-<h1 align="center">hey there 👋</h1>
+---
 
-###
+## 🛠️ Tech stack
 
-<h3 align="left">👩‍💻 About Me</h3>
+**Frontend**
 
-###
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css" alt="Frontend" />
+</p>
 
-<p align="left">I'm Samuel from Addis Ababa, Ethiopia<br><br>- 🔭 I’m working as Web developer<br>- 📚 I'm currently learning React<br>- ⚡ In my free time I rest</p>
+**Backend and data**
 
-###
+<p>
+  <img src="https://skillicons.dev/icons?i=go,dotnet,cs,nodejs,supabase,postgres,firebase" alt="Backend" />
+</p>
 
-<h3 align="left">🛠 Language and tools</h3>
+**Cloud, DevOps and tools**
 
-###
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,vscode,androidstudio" alt="Tools" />
+</p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-</div>
+---
 
-###
+## 🚀 What I'm building
 
-<h3 align="left">🔥   My Stats :</h3>
+> 🍽️ **FoodREVO** *(private, in progress)*: log restaurants you've been to, rate them, find places on a map, and keep your "best so far" list. Built with Next.js, React 19, Supabase, Leaflet and Tailwind, and shipped to Android with Capacitor.
 
-###
+---
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=SammyG02&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+## 📊 GitHub stats
 
-###
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SammyG02&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SammyG02&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SammyG02&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SammyG02&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" alt="footer" />
+</p>
